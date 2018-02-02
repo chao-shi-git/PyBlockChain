@@ -3,6 +3,11 @@
 
 # Modified from py2 example to py36 env here
 
+
+########################
+# Does NOT work as is
+########################
+
 from flask import Flask
 from flask import request
 node = Flask(__name__)
